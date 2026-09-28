@@ -2,7 +2,7 @@ module github.com/go-eyaml/eyaml
 
 go 1.26.4
 
-require github.com/ProtonMail/go-crypto v1.5.1
+require github.com/ProtonMail/go-crypto v1.5.2
 
 require (
 	github.com/cloudflare/circl v1.6.3 // indirect
